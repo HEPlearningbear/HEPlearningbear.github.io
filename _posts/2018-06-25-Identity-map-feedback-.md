@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>My Identity Map Feedback</td>
+    <td>Trying to work a LED</td>
     <td>Date</td>
-    <td>23/06/18</td>
+    <td>06/03/19</td>
   </tr>
 </table>
 
@@ -19,15 +19,15 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>I did my map for homework a brought it in with me for this lesson.</td>
+    <td>I have successfully made characters using FUZE.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To bring it in and, hopefully have good feedback.</td>
+    <td>To successfully set up and use an LED.</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>Yes, and most of the feedback was possitive.</td>
+    <td>No, in the end I wasn't able to get it working.</td>
   </tr>
 </table>
 
@@ -43,11 +43,11 @@ published: true
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td>I questioned what was important in my life.</td>
+    <td>I questioned how I wasn't doing it right.</td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td>I was very independent and received no help at all.</td>
+    <td>I wasn’t independent because I worked with my peer. </td>
   </tr>
   <tr>
     <td>Reflecting</td>
@@ -55,14 +55,14 @@ published: true
   </tr>
   <tr>
     <td>Engagement</td>
-    <td>I was very engaged to get this done as I know how important this piece is.</td>
+    <td>I was engaged to get the LED working.</td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>Tried harder to get the bulb working before the end.</td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>Try to not get distracted and focus. </td>
     <td></td>
   </tr>
 </table>
