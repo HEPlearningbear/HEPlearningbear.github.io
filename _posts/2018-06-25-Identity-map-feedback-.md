@@ -1,5 +1,5 @@
 ---
-title: Identity map feedback 
+title: fuze 
 layout: post
 author: huw.price
 permalink: /identity-map-feedback-/
