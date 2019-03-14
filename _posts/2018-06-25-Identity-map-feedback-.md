@@ -1,5 +1,5 @@
 ---
-title: fuze 
+title: fuze week 2
 layout: post
 author: huw.price
 permalink: /identity-map-feedback-/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Trying to work a LED</td>
+    <td>To try and work with LEDS</td>
     <td>Date</td>
     <td>06/03/19</td>
   </tr>
@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>I have successfully made characters using FUZE.</td>
+    <td>I wasn't able to work an LED using FUZE.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
@@ -27,7 +27,7 @@ published: true
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>No, in the end I wasn't able to get it working.</td>
+    <td>Yes, in the end I was able to get it working for a little bit.</td>
   </tr>
 </table>
 
@@ -58,19 +58,19 @@ published: true
     <td>I was engaged to get the LED working.</td>
   </tr>
   <tr>
-    <td>What could have gone better in your learning?</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Tried harder to get the bulb working before the end.</td>
+    <td>Ask for help from my peers </td>
     <td></td>
   </tr>
   <tr>
-    <td>What changes do you need to make to improve your learning next time?</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Try to not get distracted and focus. </td>
+    <td>Read the booklet more carefully </td>
     <td></td>
   </tr>
 </table>
