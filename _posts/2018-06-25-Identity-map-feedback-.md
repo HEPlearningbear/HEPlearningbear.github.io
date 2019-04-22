@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Codecademy #1</td>
+    <td>Codecademy #2</td>
     <td>Date</td>
     <td>06/03/19</td>
   </tr>
@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>I had no experience with codecademy.</td>
+    <td>I had some experience with codecademy.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To get through a good amount of Python.</td>
+    <td>To try harder things on Python.</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
