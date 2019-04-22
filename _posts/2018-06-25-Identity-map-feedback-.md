@@ -1,5 +1,5 @@
 ---
-title: fuze week 2
+title: codecademy week 3
 layout: post
 author: huw.price
 permalink: /identity-map-feedback-/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Codecademy #2</td>
+    <td>Codecademy #3</td>
     <td>Date</td>
     <td>06/03/19</td>
   </tr>
@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>I had some experience with codecademy.</td>
+    <td>I have had experience with codecademy.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To try harder things on Python.</td>
+    <td>To do as much as I can on Python.</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
