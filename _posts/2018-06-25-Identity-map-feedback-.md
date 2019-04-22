@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>To try and work with LEDS</td>
+    <td>Codecademy #1</td>
     <td>Date</td>
     <td>06/03/19</td>
   </tr>
@@ -19,15 +19,15 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>I wasn't able to work an LED using FUZE.</td>
+    <td>I had no experience with codecademy.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To successfully set up and use an LED.</td>
+    <td>To get through a good amount of Python.</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>Yes, in the end I was able to get it working for a little bit.</td>
+    <td>Yes, I feel I did well .</td>
   </tr>
 </table>
 
@@ -43,11 +43,11 @@ published: true
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td>I questioned how I wasn't doing it right.</td>
+    <td>I questioned how to get the answer.</td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td>I wasn’t independent because I worked with my peer. </td>
+    <td>I was independent and did it on my own. </td>
   </tr>
   <tr>
     <td>Reflecting</td>
@@ -55,7 +55,7 @@ published: true
   </tr>
   <tr>
     <td>Engagement</td>
-    <td>I was engaged to get the LED working.</td>
+    <td>I was engaged to get the right answers.</td>
   </tr>
   <tr>
     <td></td>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>Read the booklet more carefully </td>
+    <td>Use the hint option.</td>
     <td></td>
   </tr>
 </table>
